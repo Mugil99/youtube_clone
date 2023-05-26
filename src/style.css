@@ -1,0 +1,20 @@
+input{
+    height: 30px;
+    width: 500px;
+    margin: 20px 0px;
+}
+input:focus{
+    outline: none;
+}
+body{
+    margin-left: 20px;
+}
+button{
+    height: 36px;  
+    margin-left:10px ;
+    background-color: dodgerblue;
+}
+button:hover{
+    background-color: #0b7dda;
+    cursor: pointer;
+}
